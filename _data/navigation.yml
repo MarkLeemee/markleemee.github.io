@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "TIL"
+    url: /til/
+  - title: "Study"
+    url: /study/
+  - title: "Daily Algorithm"
+    url: /da/
+  - title: "Project"
+    url: /project/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
